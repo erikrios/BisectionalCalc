@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BisectionalCalc</string>
+    <string name="hint_a_value">Masukkan nilai titik a...</string>
+    <string name="text_a">Titik a</string>
+    <string name="text_b">Titik b</string>
+    <string name="hint_b_value">Masukkan nilai titik b...</string>
+    <string name="toleransi">Toleransi</string>
+    <string name="hint_toleransi_value">Masukkan nilai toleransi...</string>
+    <string name="tampilkan_hasil">Tampilkan Hasil</string>
+    <string name="hasil">Hasil</string>
+    <string name="reset_data">Reset Data</string>
+</resources>
